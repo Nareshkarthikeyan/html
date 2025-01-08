@@ -1,5 +1,5 @@
-*{
-    padding: 0;
+
+*{  padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
@@ -43,3 +43,8 @@
     transform: translate(90vw,-30vw) scale(1.5);
     background-color: black;
 }
+
+
+
+
+
